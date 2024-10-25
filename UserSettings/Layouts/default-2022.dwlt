@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 989
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Scene
   m_RootView: {fileID: 4}
   m_MinSize: {x: 875, y: 371}
   m_MaxSize: {x: 10000, y: 10000}
@@ -43,8 +43,8 @@ MonoBehaviour:
     y: 0
     width: 363
     height: 321
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 21324
+  controlID: 54
   draggingID: 0
 --- !u!114 &4
 MonoBehaviour:
@@ -171,7 +171,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 20562
+  controlID: 120
   draggingID: 0
 --- !u!114 &8
 MonoBehaviour:
@@ -197,7 +197,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 20563
+  controlID: 43
   draggingID: 0
 --- !u!114 &9
 MonoBehaviour:
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 20554
+  controlID: 44
   draggingID: 0
 --- !u!114 &10
 MonoBehaviour:
@@ -506,18 +506,18 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 5a77fcff7422fdff0294fdffaa0cfeff721dffff0efbffff
+      m_ExpandedIDs: 94d6ffff0efbffff6e6d0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: Decor_ Hedgehog
-        m_OriginalName: Decor_ Hedgehog
+        m_Name: switch 12
+        m_OriginalName: switch 12
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: -176940
+        m_UserData: -14628
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
         m_OriginalEventType: 0
@@ -1021,9 +1021,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -4.8693805, y: 0.4672891, z: 12.928396}
+    m_Target: {x: 18.088942, y: 5.4703183, z: -8.97551}
     speed: 2
-    m_Value: {x: -4.8693805, y: 0.4672891, z: 12.928396}
+    m_Value: {x: 18.088942, y: 5.4703183, z: -8.97551}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1069,13 +1069,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.05501463, y: -0.1604525, z: 0.009288565, w: 0.9856081}
+    m_Target: {x: 0.004315725, y: 0.99527365, z: 0.0849868, w: -0.04991814}
     speed: 2
-    m_Value: {x: 0.0550069, y: -0.16042995, z: 0.00928726, w: 0.9854696}
+    m_Value: {x: 0.0043898877, y: 0.99499446, z: 0.08646653, w: -0.04990406}
   m_Size:
-    m_Target: 9.776938
+    m_Target: 12.466146
     speed: 2
-    m_Value: 9.776938
+    m_Value: 11.929327
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1145,7 +1145,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Models
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -1153,16 +1153,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - Assets
+  - Assets/Models
   m_LastFoldersGridSize: 96
-  m_LastProjectPath: D:\Unity\Test Task
+  m_LastProjectPath: D:\Unity\The Shining
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 6e6d0000
-    m_LastClickedID: 28014
-    m_ExpandedIDs: 000000006e6d0000c678000000ca9a3b
+    m_SelectedIDs: 38720000
+    m_LastClickedID: 29240
+    m_ExpandedIDs: 000000007c70000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1190,7 +1190,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000006e6d000000ca9a3b
+    m_ExpandedIDs: 000000007c700000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
